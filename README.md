@@ -1,9 +1,6 @@
 # Cirt-Default-PW-Scraper
 Scrapes the Cirt.net site of all of the default passwords listed and outputs into a file.
 
-
-Created by: Nicholas Murphy
-     email: nick.murphy@mnsu.edu
 ************************************************************************************************************************************
 Install:
 Just run the script in a terminal and it'll generate a file containing the default passwords and a log 
